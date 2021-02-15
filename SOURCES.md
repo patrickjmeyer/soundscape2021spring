@@ -7,6 +7,7 @@ The following created by Patrick Meyer:
 -Fire noise
 -Tearing sound
 -Original bear noise
+-News Anchor Dialogue
 
 Repurposed
 -Footsteps; by Nox_Sound from freesound: https://freesound.org/people/Nox_Sound/sounds/490951/ ; Creative Commons 0 License
@@ -17,4 +18,6 @@ Repurposed
 -bear-roar; by mrbubble110 from freesound: https://freesound.org/people/mrbubble110/sounds/70333/ ; Creative Commons Sampling+ License
 -Beast Snarling; by Christopherderp from freesound: https://freesound.org/people/Christopherderp/sounds/342204/ ; Creative Commons 0 License
 -Dragging body; by Samantha_Dolman from freesound: https://freesound.org/people/Samantha_Dolman/sounds/490715/ ; Creative Commons Attribution Noncommercial License
--Pumpkin Guts 7; by MWLANDI https://freesound.org/people/MWLANDI/sounds/85857/ ; Creative Commons Attribution License
+-Pumpkin Guts 7; by MWLANDI from freesound: https://freesound.org/people/MWLANDI/sounds/85857/ ; Creative Commons Attribution License
+-Roar; by Waxsounds from freesound:https://freesound.org/people/waxsocks/sounds/410343/ ; Creative Commons 0 License
+-"Newsroom Theme" by Foolboy Media from freesound: https://freesound.org/people/FoolBoyMedia/sounds/504687/ ; Creative Commons Attribution Noncommercial License
